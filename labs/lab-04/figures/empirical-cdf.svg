@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580" viewBox="0 0 1100 580">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Literata, DejaVu Sans, serif" fill="#172033">
+<text x="550.00" y="35.00" text-anchor="middle" font-size="27" fill="#172033">Емпірична функція розподілу Fₙ(x)</text>
+<text x="100.00" y="65.00" text-anchor="start" font-size="21" fill="#172033">Накопичена частка спостережень</text>
+<line x1="100.00" y1="430.00" x2="1020.00" y2="430.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="437.00" text-anchor="end" font-size="21" fill="#172033">0.0</text>
+<line x1="100.00" y1="360.00" x2="1020.00" y2="360.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="367.00" text-anchor="end" font-size="21" fill="#172033">0.2</text>
+<line x1="100.00" y1="290.00" x2="1020.00" y2="290.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="297.00" text-anchor="end" font-size="21" fill="#172033">0.4</text>
+<line x1="100.00" y1="220.00" x2="1020.00" y2="220.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="227.00" text-anchor="end" font-size="21" fill="#172033">0.6</text>
+<line x1="100.00" y1="150.00" x2="1020.00" y2="150.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="157.00" text-anchor="end" font-size="21" fill="#172033">0.8</text>
+<line x1="100.00" y1="80.00" x2="1020.00" y2="80.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85.00" y="87.00" text-anchor="end" font-size="21" fill="#172033">1.0</text>
+<text x="100.00" y="465.00" text-anchor="middle" font-size="23" fill="#172033">0</text>
+<text x="253.33" y="465.00" text-anchor="middle" font-size="23" fill="#172033">1</text>
+<text x="406.67" y="465.00" text-anchor="middle" font-size="23" fill="#172033">2</text>
+<text x="560.00" y="465.00" text-anchor="middle" font-size="23" fill="#172033">3</text>
+<text x="713.33" y="465.00" text-anchor="middle" font-size="23" fill="#172033">4</text>
+<text x="866.67" y="465.00" text-anchor="middle" font-size="23" fill="#172033">5</text>
+<text x="1020.00" y="465.00" text-anchor="middle" font-size="23" fill="#172033">6</text>
+<line x1="100.00" y1="430.00" x2="253.33" y2="430.00" stroke="#2563eb" stroke-width="4"/>
+<line x1="253.33" y1="430.00" x2="253.33" y2="356.85" stroke="#2563eb" stroke-width="2" stroke-dasharray="9 7"/>
+<circle cx="253.33" cy="430.00" r="5" stroke="#2563eb" fill="white" stroke-width="2"/>
+<circle cx="253.33" cy="356.85" r="5" fill="#2563eb"/>
+<text x="266.33" y="344.85" text-anchor="start" font-size="21" fill="#172033">0.2090</text>
+<line x1="253.33" y1="356.85" x2="406.67" y2="356.85" stroke="#2563eb" stroke-width="4"/>
+<line x1="406.67" y1="356.85" x2="406.67" y2="287.67" stroke="#2563eb" stroke-width="2" stroke-dasharray="9 7"/>
+<circle cx="406.67" cy="356.85" r="5" stroke="#2563eb" fill="white" stroke-width="2"/>
+<circle cx="406.67" cy="287.67" r="5" fill="#2563eb"/>
+<text x="419.67" y="275.67" text-anchor="start" font-size="21" fill="#172033">0.4067</text>
+<line x1="406.67" y1="287.67" x2="560.00" y2="287.67" stroke="#2563eb" stroke-width="4"/>
+<line x1="560.00" y1="287.67" x2="560.00" y2="215.92" stroke="#2563eb" stroke-width="2" stroke-dasharray="9 7"/>
+<circle cx="560.00" cy="287.67" r="5" stroke="#2563eb" fill="white" stroke-width="2"/>
+<circle cx="560.00" cy="215.92" r="5" fill="#2563eb"/>
+<text x="573.00" y="203.92" text-anchor="start" font-size="21" fill="#172033">0.6117</text>
+<line x1="560.00" y1="215.92" x2="713.33" y2="215.92" stroke="#2563eb" stroke-width="4"/>
+<line x1="713.33" y1="215.92" x2="713.33" y2="151.05" stroke="#2563eb" stroke-width="2" stroke-dasharray="9 7"/>
+<circle cx="713.33" cy="215.92" r="5" stroke="#2563eb" fill="white" stroke-width="2"/>
+<circle cx="713.33" cy="151.05" r="5" fill="#2563eb"/>
+<text x="726.33" y="139.05" text-anchor="start" font-size="21" fill="#172033">0.7970</text>
+<line x1="713.33" y1="151.05" x2="866.67" y2="151.05" stroke="#2563eb" stroke-width="4"/>
+<line x1="866.67" y1="151.05" x2="866.67" y2="80.00" stroke="#2563eb" stroke-width="2" stroke-dasharray="9 7"/>
+<circle cx="866.67" cy="151.05" r="5" stroke="#2563eb" fill="white" stroke-width="2"/>
+<circle cx="866.67" cy="80.00" r="5" fill="#2563eb"/>
+<text x="879.67" y="68.00" text-anchor="start" font-size="21" fill="#172033">1.0000</text>
+<line x1="866.67" y1="80.00" x2="1020.00" y2="80.00" stroke="#2563eb" stroke-width="4"/>
+<text x="550.00" y="490.00" text-anchor="middle" font-size="23" fill="#172033">Значення x</text>
+<text x="100.00" y="545.00" text-anchor="start" font-size="21" fill="#172033">● значення в точці стрибка; ○ ліва межа; Fₙ(x) = частка значень ≤ x</text>
+</g></svg>

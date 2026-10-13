@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Literata, DejaVu Sans, serif" fill="#172033">
+<text x="550.00" y="35.00" text-anchor="middle" font-size="27" fill="#172033">Три методи: положення на шкалі власного набору</text>
+<text x="100.00" y="71.00" text-anchor="start" font-size="21" fill="#172033">(оцінка − мінімум) / (максимум − мінімум)</text>
+<line x1="100.00" y1="415.00" x2="1058.00" y2="415.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="422.00" text-anchor="end" font-size="21" fill="#172033">0</text>
+<line x1="100.00" y1="351.00" x2="1058.00" y2="351.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="358.00" text-anchor="end" font-size="21" fill="#172033">0.23</text>
+<line x1="100.00" y1="287.00" x2="1058.00" y2="287.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="294.00" text-anchor="end" font-size="21" fill="#172033">0.46</text>
+<line x1="100.00" y1="223.00" x2="1058.00" y2="223.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="230.00" text-anchor="end" font-size="21" fill="#172033">0.69</text>
+<line x1="100.00" y1="159.00" x2="1058.00" y2="159.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="166.00" text-anchor="end" font-size="21" fill="#172033">0.92</text>
+<line x1="100.00" y1="95.00" x2="1058.00" y2="95.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="102.00" text-anchor="end" font-size="21" fill="#172033">1.15</text>
+<line x1="100.00" y1="415.00" x2="1058.00" y2="415.00" stroke="#475569" stroke-width="2"/>
+<text x="195.80" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A1</text>
+<rect x="130.66" y="136.74" width="37.35" height="278.26" fill="#2563eb"/>
+<text x="149.33" y="127.74" text-anchor="middle" font-size="19" fill="#2563eb">1.000</text>
+<rect x="174.09" y="136.74" width="37.35" height="278.26" fill="#d97706"/>
+<text x="192.76" y="127.74" text-anchor="middle" font-size="19" fill="#d97706">1.000</text>
+<rect x="217.51" y="136.74" width="37.35" height="278.26" fill="#059669"/>
+<text x="236.19" y="127.74" text-anchor="middle" font-size="19" fill="#059669">1.000</text>
+<text x="387.40" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A2</text>
+<rect x="322.26" y="206.30" width="37.35" height="208.70" fill="#2563eb"/>
+<text x="340.93" y="197.30" text-anchor="middle" font-size="19" fill="#2563eb">0.750</text>
+<rect x="365.69" y="206.30" width="37.35" height="208.70" fill="#d97706"/>
+<text x="384.36" y="197.30" text-anchor="middle" font-size="19" fill="#d97706">0.750</text>
+<rect x="409.11" y="282.49" width="37.35" height="132.51" fill="#059669"/>
+<text x="427.79" y="273.49" text-anchor="middle" font-size="19" fill="#059669">0.476</text>
+<text x="579.00" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A3</text>
+<rect x="513.86" y="275.87" width="37.35" height="139.13" fill="#2563eb"/>
+<text x="532.53" y="266.87" text-anchor="middle" font-size="19" fill="#2563eb">0.500</text>
+<rect x="557.29" y="275.87" width="37.35" height="139.13" fill="#d97706"/>
+<text x="575.96" y="266.87" text-anchor="middle" font-size="19" fill="#d97706">0.500</text>
+<rect x="600.71" y="348.75" width="37.35" height="66.25" fill="#059669"/>
+<text x="619.39" y="339.75" text-anchor="middle" font-size="19" fill="#059669">0.238</text>
+<text x="770.60" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A4</text>
+<rect x="705.46" y="345.43" width="37.35" height="69.57" fill="#2563eb"/>
+<text x="724.13" y="336.43" text-anchor="middle" font-size="19" fill="#2563eb">0.250</text>
+<rect x="748.89" y="345.43" width="37.35" height="69.57" fill="#d97706"/>
+<text x="767.56" y="336.43" text-anchor="middle" font-size="19" fill="#d97706">0.250</text>
+<rect x="792.31" y="388.50" width="37.35" height="26.50" fill="#059669"/>
+<text x="810.99" y="379.50" text-anchor="middle" font-size="19" fill="#059669">0.095</text>
+<text x="962.20" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A5</text>
+<rect x="897.06" y="415.00" width="37.35" height="0.00" fill="#2563eb"/>
+<line x1="897.06" y1="415.00" x2="934.41" y2="415.00" stroke="#2563eb" stroke-width="4"/>
+<text x="915.73" y="406.00" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<rect x="940.49" y="415.00" width="37.35" height="0.00" fill="#d97706"/>
+<line x1="940.49" y1="415.00" x2="977.83" y2="415.00" stroke="#d97706" stroke-width="4"/>
+<text x="959.16" y="406.00" text-anchor="middle" font-size="19" fill="#d97706">0.000</text>
+<rect x="983.91" y="415.00" width="37.35" height="0.00" fill="#059669"/>
+<line x1="983.91" y1="415.00" x2="1021.26" y2="415.00" stroke="#059669" stroke-width="4"/>
+<text x="1002.59" y="406.00" text-anchor="middle" font-size="19" fill="#059669">0.000</text>
+<rect x="100" y="486" width="19" height="19" fill="#2563eb"/>
+<text x="129.00" y="503.00" text-anchor="start" font-size="20" fill="#172033">Безпосередній</text>
+<rect x="410" y="486" width="19" height="19" fill="#d97706"/>
+<text x="439.00" y="503.00" text-anchor="start" font-size="20" fill="#172033">Середня точка</text>
+<rect x="720" y="486" width="19" height="19" fill="#059669"/>
+<text x="749.00" y="503.00" text-anchor="start" font-size="20" fill="#172033">Черчмен–Акофф</text>
+</g></svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Literata, DejaVu Sans, serif" fill="#172033">
+<text x="550.00" y="35.00" text-anchor="middle" font-size="27" fill="#172033">Min-max лінійна згортка</text>
+<text x="100.00" y="71.00" text-anchor="start" font-size="21" fill="#172033">Σ λᵢqᵢ</text>
+<line x1="100.00" y1="295.00" x2="1058.00" y2="295.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="302.00" text-anchor="end" font-size="21" fill="#172033">0</text>
+<line x1="100.00" y1="255.00" x2="1058.00" y2="255.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="262.00" text-anchor="end" font-size="21" fill="#172033">0.141</text>
+<line x1="100.00" y1="215.00" x2="1058.00" y2="215.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="222.00" text-anchor="end" font-size="21" fill="#172033">0.282</text>
+<line x1="100.00" y1="175.00" x2="1058.00" y2="175.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="182.00" text-anchor="end" font-size="21" fill="#172033">0.424</text>
+<line x1="100.00" y1="135.00" x2="1058.00" y2="135.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="142.00" text-anchor="end" font-size="21" fill="#172033">0.565</text>
+<line x1="100.00" y1="95.00" x2="1058.00" y2="95.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="102.00" text-anchor="end" font-size="21" fill="#172033">0.706</text>
+<line x1="100.00" y1="295.00" x2="1058.00" y2="295.00" stroke="#475569" stroke-width="2"/>
+<text x="219.75" y="329.00" text-anchor="middle" font-size="23" fill="#172033">A1</text>
+<rect x="188.75" y="125.51" width="53.32" height="169.49" fill="#2563eb"/>
+<text x="215.41" y="116.51" text-anchor="middle" font-size="19" fill="#2563eb">0.598</text>
+<text x="459.25" y="329.00" text-anchor="middle" font-size="23" fill="#172033">A2</text>
+<rect x="428.25" y="130.82" width="53.32" height="164.18" fill="#2563eb"/>
+<text x="454.91" y="121.82" text-anchor="middle" font-size="19" fill="#2563eb">0.580</text>
+<text x="698.75" y="329.00" text-anchor="middle" font-size="23" fill="#172033">A3</text>
+<rect x="667.75" y="205.89" width="53.32" height="89.11" fill="#2563eb"/>
+<text x="694.41" y="196.89" text-anchor="middle" font-size="19" fill="#2563eb">0.315</text>
+<text x="938.25" y="329.00" text-anchor="middle" font-size="23" fill="#172033">A4</text>
+<rect x="907.25" y="197.93" width="53.32" height="97.07" fill="#2563eb"/>
+<text x="933.91" y="188.93" text-anchor="middle" font-size="19" fill="#2563eb">0.343</text>
+<rect x="100" y="366" width="19" height="19" fill="#2563eb"/>
+<text x="129.00" y="383.00" text-anchor="start" font-size="20" fill="#172033">Оптимальні: A1</text>
+<text x="550.00" y="435.00" text-anchor="middle" font-size="27" fill="#172033">Min-max максимінна згортка</text>
+<text x="100.00" y="471.00" text-anchor="start" font-size="21" fill="#172033">min λᵢqᵢ</text>
+<line x1="100.00" y1="695.00" x2="1058.00" y2="695.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="702.00" text-anchor="end" font-size="21" fill="#172033">0</text>
+<line x1="100.00" y1="655.00" x2="1058.00" y2="655.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="662.00" text-anchor="end" font-size="21" fill="#172033">0.2</text>
+<line x1="100.00" y1="615.00" x2="1058.00" y2="615.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="622.00" text-anchor="end" font-size="21" fill="#172033">0.4</text>
+<line x1="100.00" y1="575.00" x2="1058.00" y2="575.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="582.00" text-anchor="end" font-size="21" fill="#172033">0.6</text>
+<line x1="100.00" y1="535.00" x2="1058.00" y2="535.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="542.00" text-anchor="end" font-size="21" fill="#172033">0.8</text>
+<line x1="100.00" y1="495.00" x2="1058.00" y2="495.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="502.00" text-anchor="end" font-size="21" fill="#172033">1</text>
+<line x1="100.00" y1="695.00" x2="1058.00" y2="695.00" stroke="#475569" stroke-width="2"/>
+<text x="219.75" y="729.00" text-anchor="middle" font-size="23" fill="#172033">A1</text>
+<rect x="188.75" y="695.00" width="53.32" height="0.00" fill="#2563eb"/>
+<line x1="188.75" y1="695.00" x2="242.07" y2="695.00" stroke="#2563eb" stroke-width="4"/>
+<text x="215.41" y="686.00" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<text x="459.25" y="729.00" text-anchor="middle" font-size="23" fill="#172033">A2</text>
+<rect x="428.25" y="695.00" width="53.32" height="0.00" fill="#2563eb"/>
+<line x1="428.25" y1="695.00" x2="481.57" y2="695.00" stroke="#2563eb" stroke-width="4"/>
+<text x="454.91" y="686.00" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<text x="698.75" y="729.00" text-anchor="middle" font-size="23" fill="#172033">A3</text>
+<rect x="667.75" y="695.00" width="53.32" height="0.00" fill="#2563eb"/>
+<line x1="667.75" y1="695.00" x2="721.07" y2="695.00" stroke="#2563eb" stroke-width="4"/>
+<text x="694.41" y="686.00" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<text x="938.25" y="729.00" text-anchor="middle" font-size="23" fill="#172033">A4</text>
+<rect x="907.25" y="695.00" width="53.32" height="0.00" fill="#2563eb"/>
+<line x1="907.25" y1="695.00" x2="960.57" y2="695.00" stroke="#2563eb" stroke-width="4"/>
+<text x="933.91" y="686.00" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<rect x="100" y="766" width="19" height="19" fill="#2563eb"/>
+<text x="129.00" y="783.00" text-anchor="start" font-size="20" fill="#172033">Оптимальні: A1, A2, A3, A4</text>
+</g></svg>

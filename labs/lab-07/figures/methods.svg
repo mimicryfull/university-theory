@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="710" viewBox="0 0 900 710">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Liberation Sans, sans-serif" fill="#17212b">
+<text x="35" y="35" font-size="22" fill="#17212b" text-anchor="start" font-weight="bold">Лінійна згортка та відстань до ідеальної точки</text>
+<text x="75" y="67" font-size="18" fill="#2764bd" text-anchor="start" font-weight="bold">Згортка S = 0,3Q1 + 0,7Q2 → максимум</text>
+<line x1="75" y1="315.0" x2="835" y2="315.0" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="320.0" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">-0.50</text>
+<line x1="75" y1="258.75" x2="835" y2="258.75" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="263.75" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">0.47</text>
+<line x1="75" y1="202.5" x2="835" y2="202.5" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="207.5" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">1.45</text>
+<line x1="75" y1="146.25" x2="835" y2="146.25" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="151.25" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">2.42</text>
+<line x1="75" y1="90.0" x2="835" y2="90.0" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="95.0" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">3.40</text>
+<line x1="75" y1="286.15384615384613" x2="835" y2="286.15384615384613" stroke="#64748b" stroke-width="1.5"/>
+<rect x="93.0" y="170.76923076923075" width="40" height="115.38461538461539" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="113.0" y="162.76923076923075" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">2.00</text>
+<text x="113.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A1</text>
+<rect x="169.0" y="286.15384615384613" width="40" height="1" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="189.0" y="278.15384615384613" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.00</text>
+<text x="189.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="245.0" y="90.0" width="40" height="196.15384615384613" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="265.0" y="82.0" font-size="14" fill="#17212b" text-anchor="middle" font-weight="bold">3.40</text>
+<text x="265.0" y="339" font-size="15" fill="#177245" text-anchor="middle" font-weight="bold">A3</text>
+<rect x="321.0" y="286.15384615384613" width="40" height="28.846153846153868" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="341.0" y="334.0" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">-0.50</text>
+<text x="341.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A4</text>
+<rect x="397.0" y="205.3846153846154" width="40" height="80.76923076923075" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="417.0" y="197.3846153846154" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">1.40</text>
+<text x="417.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A5</text>
+<rect x="473.0" y="263.0769230769231" width="40" height="23.076923076923038" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="493.0" y="255.0769230769231" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.40</text>
+<text x="493.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A6</text>
+<rect x="549.0" y="193.8461538461538" width="40" height="92.30769230769232" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="569.0" y="185.8461538461538" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">1.60</text>
+<text x="569.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A7</text>
+<rect x="625.0" y="286.15384615384613" width="40" height="23.076923076923094" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="645.0" y="328.2307692307692" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">-0.40</text>
+<text x="645.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A8</text>
+<rect x="701.0" y="245.76923076923077" width="40" height="40.38461538461536" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="721.0" y="237.76923076923077" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.70</text>
+<text x="721.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A9</text>
+<rect x="777.0" y="234.23076923076923" width="40" height="51.923076923076906" fill="#2764bd" stroke="none" stroke-width="1"/>
+<text x="797.0" y="226.23076923076923" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.90</text>
+<text x="797.0" y="339" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A10</text>
+<text x="75" y="367" font-size="15" fill="#177245" text-anchor="start" font-weight="normal">Оптимум: A3; значення 3.4000. Зеленим позначено вибір.</text>
+<text x="75" y="392" font-size="18" fill="#d27500" text-anchor="start" font-weight="bold">Евклідова відстань d до Q* → мінімум</text>
+<line x1="75" y1="640.0" x2="835" y2="640.0" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="645.0" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">0.00</text>
+<line x1="75" y1="583.75" x2="835" y2="583.75" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="588.75" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">1.50</text>
+<line x1="75" y1="527.5" x2="835" y2="527.5" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="532.5" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">3.00</text>
+<line x1="75" y1="471.25" x2="835" y2="471.25" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="476.25" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">4.50</text>
+<line x1="75" y1="415.0" x2="835" y2="415.0" stroke="#e4e8ed" stroke-width="1"/>
+<text x="65" y="420.0" font-size="14" fill="#17212b" text-anchor="end" font-weight="normal">6.00</text>
+<line x1="75" y1="640.0" x2="835" y2="640.0" stroke="#64748b" stroke-width="1.5"/>
+<rect x="93.0" y="556.1474508437578" width="40" height="83.85254915624216" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="113.0" y="548.1474508437578" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">2.24</text>
+<text x="113.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A1</text>
+<rect x="169.0" y="452.5" width="40" height="187.5" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="189.0" y="444.5" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">5.00</text>
+<text x="189.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A2</text>
+<rect x="245.0" y="602.5" width="40" height="37.5" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="265.0" y="594.5" font-size="14" fill="#17212b" text-anchor="middle" font-weight="bold">1.00</text>
+<text x="265.0" y="664" font-size="15" fill="#177245" text-anchor="middle" font-weight="bold">A3</text>
+<rect x="321.0" y="415.0" width="40" height="225.0" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="341.0" y="407.0" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">6.00</text>
+<text x="341.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A4</text>
+<rect x="397.0" y="504.7918271701004" width="40" height="135.20817282989958" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="417.0" y="496.7918271701004" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">3.61</text>
+<text x="417.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A5</text>
+<rect x="473.0" y="452.5" width="40" height="187.5" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="493.0" y="444.5" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">5.00</text>
+<text x="493.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A6</text>
+<rect x="549.0" y="527.5" width="40" height="112.5" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="569.0" y="519.5" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">3.00</text>
+<text x="569.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A7</text>
+<rect x="625.0" y="438.05631973245613" width="40" height="201.94368026754387" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="645.0" y="430.05631973245613" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">5.39</text>
+<text x="645.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A8</text>
+<rect x="701.0" y="480.90097423302683" width="40" height="159.09902576697317" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="721.0" y="472.90097423302683" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">4.24</text>
+<text x="721.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A9</text>
+<rect x="777.0" y="490.0" width="40" height="150.0" fill="#d27500" stroke="none" stroke-width="1"/>
+<text x="797.0" y="482.0" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">4.00</text>
+<text x="797.0" y="664" font-size="15" fill="#17212b" text-anchor="middle" font-weight="normal">A10</text>
+<text x="75" y="692" font-size="15" fill="#177245" text-anchor="start" font-weight="normal">Оптимум: A3; значення 1.0000. Зеленим позначено вибір.</text>
+</g></svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Literata, DejaVu Sans, serif" fill="#172033">
+<text x="550.00" y="35.00" text-anchor="middle" font-size="27" fill="#172033">Шкала Терстоуна: сума Mᵢ дорівнює нулю</text>
+<text x="100.00" y="71.00" text-anchor="start" font-size="21" fill="#172033">Mᵢ в одиницях √(2D)</text>
+<line x1="100.00" y1="415.00" x2="1058.00" y2="415.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="422.00" text-anchor="end" font-size="21" fill="#172033">-2.7</text>
+<line x1="100.00" y1="351.00" x2="1058.00" y2="351.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="358.00" text-anchor="end" font-size="21" fill="#172033">-1.6</text>
+<line x1="100.00" y1="287.00" x2="1058.00" y2="287.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="294.00" text-anchor="end" font-size="21" fill="#172033">-0.5</text>
+<line x1="100.00" y1="223.00" x2="1058.00" y2="223.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="230.00" text-anchor="end" font-size="21" fill="#172033">0.6</text>
+<line x1="100.00" y1="159.00" x2="1058.00" y2="159.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="166.00" text-anchor="end" font-size="21" fill="#172033">1.7</text>
+<line x1="100.00" y1="95.00" x2="1058.00" y2="95.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="87.00" y="102.00" text-anchor="end" font-size="21" fill="#172033">2.8</text>
+<line x1="100.00" y1="257.91" x2="1058.00" y2="257.91" stroke="#475569" stroke-width="2"/>
+<text x="195.80" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A1</text>
+<rect x="164.80" y="141.55" width="53.32" height="116.36" fill="#2563eb"/>
+<text x="191.46" y="132.55" text-anchor="middle" font-size="19" fill="#2563eb">2.000</text>
+<text x="387.40" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A2</text>
+<rect x="356.40" y="199.73" width="53.32" height="58.18" fill="#2563eb"/>
+<text x="383.06" y="190.73" text-anchor="middle" font-size="19" fill="#2563eb">1.000</text>
+<text x="579.00" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A3</text>
+<rect x="548.00" y="257.91" width="53.32" height="0.00" fill="#2563eb"/>
+<line x1="548.00" y1="257.91" x2="601.32" y2="257.91" stroke="#2563eb" stroke-width="4"/>
+<text x="574.66" y="248.91" text-anchor="middle" font-size="19" fill="#2563eb">0.000</text>
+<text x="770.60" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A4</text>
+<rect x="739.60" y="257.91" width="53.32" height="58.18" fill="#2563eb"/>
+<text x="766.26" y="341.09" text-anchor="middle" font-size="19" fill="#2563eb">-1.000</text>
+<text x="962.20" y="449.00" text-anchor="middle" font-size="23" fill="#172033">A5</text>
+<rect x="931.20" y="257.91" width="53.32" height="116.36" fill="#2563eb"/>
+<text x="957.86" y="399.27" text-anchor="middle" font-size="19" fill="#2563eb">-2.000</text>
+<rect x="100" y="486" width="19" height="19" fill="#2563eb"/>
+<text x="129.00" y="503.00" text-anchor="start" font-size="20" fill="#172033">Центровані математичні сподівання</text>
+</g></svg>

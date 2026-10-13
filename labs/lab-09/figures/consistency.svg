@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="430" viewBox="0 0 940 430">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Liberation Sans, sans-serif" fill="#17212b">
+<text x="30" y="35" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">Узгодженість матриць попарних порівнянь</text>
+<line x1="355.0" y1="85" x2="355.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="355.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.00</text>
+<line x1="435.0" y1="85" x2="435.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="435.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.02</text>
+<line x1="515.0" y1="85" x2="515.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="515.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.04</text>
+<line x1="595.0" y1="85" x2="595.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="595.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.06</text>
+<line x1="675.0" y1="85" x2="675.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="675.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.08</text>
+<line x1="755.0" y1="85" x2="755.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="755.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.10</text>
+<line x1="835.0" y1="85" x2="835.0" y2="355" stroke="#e4e8ed" stroke-width="1"/>
+<text x="835.0" y="379" font-size="14" fill="#17212b" text-anchor="middle" font-weight="normal">0.12</text>
+<text x="340" y="111" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Критерії</text>
+<rect x="355" y="92" width="2" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="365.0" y="111" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.00000</text>
+<text x="340" y="156" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Q1: Вартість</text>
+<rect x="355" y="137" width="46.770946116083046" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="411.77094611608305" y="156" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.01169</text>
+<text x="340" y="201" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Q2: Швидкість відновлення</text>
+<rect x="355" y="182" width="33.37258319552656" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="398.37258319552654" y="201" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.00834</text>
+<text x="340" y="246" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Q3: Надійність</text>
+<rect x="355" y="227" width="52.33708687266771" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="417.3370868726677" y="246" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.01308</text>
+<text x="340" y="291" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Q4: Простота адміністрування</text>
+<rect x="355" y="272" width="49.49180675792943" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="414.49180675792945" y="291" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.01237</text>
+<text x="340" y="336" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">Q5: Конфіденційність</text>
+<rect x="355" y="317" width="8.893105020222178" height="27" fill="#177245" stroke="none" stroke-width="1"/>
+<text x="373.89310502022215" y="336" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">0.00222</text>
+<line x1="755.0" y1="80" x2="755.0" y2="355" stroke="#b71c1c" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="755.0" y="68" font-size="16" fill="#b71c1c" text-anchor="middle" font-weight="normal">Поріг CR = 0,10</text>
+<text x="30" y="410" font-size="16" fill="#17212b" text-anchor="start" font-weight="normal">CR ієрархії = 0.005052; зелені стовпчики — прийнятна узгодженість.</text>
+</g></svg>

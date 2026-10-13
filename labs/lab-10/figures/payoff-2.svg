@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="526" viewBox="0 0 960 526">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Liberation Sans, sans-serif" fill="#17212b">
+<text x="25" y="35" font-size="22" fill="#17212b" text-anchor="start" font-weight="bold">Контракт на якість програмного забезпечення</text>
+<text x="25" y="62" font-size="16" fill="#17212b" text-anchor="start" font-weight="normal">Платежі першому гравцеві: рядки — його стратегії, стовпці — стратегії другого.</text>
+<text x="172.5" y="95" font-size="19" fill="#17212b" text-anchor="middle" font-weight="bold">B1</text>
+<text x="277.5" y="95" font-size="19" fill="#17212b" text-anchor="middle" font-weight="bold">B2</text>
+<text x="382.5" y="95" font-size="19" fill="#17212b" text-anchor="middle" font-weight="bold">B3</text>
+<text x="503.25" y="95" font-size="17" fill="#17212b" text-anchor="middle" font-weight="normal">min рядка</text>
+<text x="100" y="150" font-size="19" fill="#17212b" text-anchor="end" font-weight="bold">A1</text>
+<rect x="120" y="110" width="102" height="61" fill="#c9dbd2" stroke="white" stroke-width="1"/>
+<text x="172.5" y="150" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">1</text>
+<rect x="225" y="110" width="102" height="61" fill="#438c68" stroke="white" stroke-width="1"/>
+<text x="277.5" y="150" font-size="23" fill="white" text-anchor="middle" font-weight="bold">4</text>
+<rect x="330" y="110" width="102" height="61" fill="#9cc1af" stroke="white" stroke-width="1"/>
+<text x="382.5" y="150" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">2</text>
+<text x="503.25" y="150" font-size="21" fill="#64748b" text-anchor="middle" font-weight="normal">1</text>
+<text x="100" y="214" font-size="19" fill="#17212b" text-anchor="end" font-weight="bold">A2</text>
+<rect x="120" y="174" width="102" height="61" fill="#70a68b" stroke="#d27500" stroke-width="5"/>
+<text x="172.5" y="214" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">3</text>
+<rect x="225" y="174" width="102" height="61" fill="#177245" stroke="white" stroke-width="1"/>
+<text x="277.5" y="214" font-size="23" fill="white" text-anchor="middle" font-weight="bold">5</text>
+<rect x="330" y="174" width="102" height="61" fill="#70a68b" stroke="#d27500" stroke-width="5"/>
+<text x="382.5" y="214" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">3</text>
+<text x="503.25" y="214" font-size="21" fill="#177245" text-anchor="middle" font-weight="bold">3</text>
+<text x="100" y="278" font-size="19" fill="#17212b" text-anchor="end" font-weight="bold">A3</text>
+<rect x="120" y="238" width="102" height="61" fill="#f5f5f5" stroke="white" stroke-width="1"/>
+<text x="172.5" y="278" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">0</text>
+<rect x="225" y="238" width="102" height="61" fill="#9cc1af" stroke="white" stroke-width="1"/>
+<text x="277.5" y="278" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">2</text>
+<rect x="330" y="238" width="102" height="61" fill="#c9dbd2" stroke="white" stroke-width="1"/>
+<text x="382.5" y="278" font-size="23" fill="#17212b" text-anchor="middle" font-weight="bold">1</text>
+<text x="503.25" y="278" font-size="21" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="100" y="340" font-size="16" fill="#17212b" text-anchor="end" font-weight="normal">max стовпця</text>
+<text x="172.5" y="340" font-size="21" fill="#177245" text-anchor="middle" font-weight="bold">3</text>
+<text x="277.5" y="340" font-size="21" fill="#64748b" text-anchor="middle" font-weight="normal">5</text>
+<text x="382.5" y="340" font-size="21" fill="#177245" text-anchor="middle" font-weight="bold">3</text>
+<text x="25" y="387" font-size="21" fill="#17212b" text-anchor="start" font-weight="bold">α = 3; β = 3; є чиста рівновага</text>
+<text x="25" y="416" font-size="15" fill="#64748b" text-anchor="start" font-weight="normal">Помаранчева рамка — сідлова точка; зелений текст — оптимальна гранична оцінка.</text>
+<text x="25" y="450" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">A1: Огляд коду</text>
+<text x="485" y="450" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">B1: Аудит коректності</text>
+<text x="25" y="477" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">A2: Огляд та модульні тести</text>
+<text x="485" y="477" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">B2: Аудит документації</text>
+<text x="25" y="504" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">A3: Лише ручні тести</text>
+<text x="485" y="504" font-size="15" fill="#17212b" text-anchor="start" font-weight="normal">B3: Аудит відновлюваності</text>
+</g></svg>

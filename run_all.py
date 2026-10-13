@@ -20,7 +20,7 @@ JOBS = [
 def main() -> None:
     for number, options in JOBS:
         print(f"\nЛабораторна {number}", flush=True)
-        script = ROOT / f"lab-{number:02d}" / "main.py"
+        script = ROOT / "labs" / f"lab-{number:02d}" / "src" / "main.py"
         subprocess.run([sys.executable, str(script), *options],
                        cwd=ROOT, check=True)
 
