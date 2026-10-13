@@ -132,16 +132,17 @@ def make_dashboard(results: dict, destination: Path) -> None:
 body{{font:18px/1.6 Literata,serif;margin:32px auto;padding:0 24px;max-width:1000px;color:#18181b}}
 table{{border-collapse:collapse;width:100%}}td,th{{border:1px solid #ddd;padding:10px;text-align:left}}
 img{{width:100%}}summary{{cursor:pointer;font-weight:bold}}p.sample{{font:14px/1.7 MonoLisaCode,monospace;overflow-wrap:anywhere}}
+figure{{margin:12pt 0}}figure img{{display:block}}figcaption{{margin-top:6pt;font-size:12pt;text-align:center}}
 </style>
 <h1>Методи обчислення середніх величин</h1>
 <p>Біжик Юрій Володимирович · ФЕІ-34с · N = {results["student_number"]}</p>
 <p>n = {results["size"]}, діапазон 1..{results["maximum"]}, seed = {results["seed"]}.</p>
-<img src="figures/histogram.svg" alt="Графік абсолютних частот">
-<img src="figures/empirical-cdf.svg" alt="Емпірична функція розподілу">
-<img src="figures/means-comparison.svg" alt="Порівняння середніх із медіаною">
-<img src="figures/sample-boxplot.svg" alt="Квартилі, медіана та розмах вибірки">
-<table><tr><th>Показник</th><th>Значення</th></tr>{rows}
-<tr><td>Мода / моди</td><td>{mode}</td></tr></table>
+<figure><img src="figures/histogram.svg" alt="Графік абсолютних частот"><figcaption>Рисунок 1 — Частотний розподіл згенерованої вибірки</figcaption></figure>
+<figure><img src="figures/empirical-cdf.svg" alt="Емпірична функція розподілу"><figcaption>Рисунок 2 — Емпірична функція розподілу</figcaption></figure>
+<figure><img src="figures/means-comparison.svg" alt="Порівняння середніх із медіаною"><figcaption>Рисунок 3 — Порівняння середніх величин із медіаною</figcaption></figure>
+<figure><img src="figures/sample-boxplot.svg" alt="Квартилі, медіана та розмах вибірки"><figcaption>Рисунок 4 — Квартилі, медіана та розмах вибірки</figcaption></figure>
+<figure><table><tr><th>Показник</th><th>Значення</th></tr>{rows}
+<tr><td>Мода / моди</td><td>{mode}</td></tr></table><figcaption>Таблиця 1 — Характеристики згенерованої вибірки</figcaption></figure>
 <details><summary>Початкова вибірка: всі 3000 значень</summary><p class="sample">{original}</p></details>
 <details><summary>Проранжована вибірка: всі 3000 значень</summary><p class="sample">{ordered}</p></details>
 </html>''', encoding="utf-8")

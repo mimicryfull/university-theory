@@ -92,6 +92,8 @@ uv run python labs/lab-04/src/charts.py
 
 Код та inline-фрагменти набираються MonoLisaCode. Для блоків із мовою
 задана читабельна світла тема [code-light.tmTheme](report-template/code-light.tmTheme).
+Кожен рисунок і таблиця мають нумерований підпис знизу: 6 pt від
+об’єкта до підпису та 12 pt після об’єкта з підписом.
 Основний текст — Literata; параметри оформлення зберігаються окремо в
 [rules.typ](report-template/rules.typ), пояснення — у [RULES.md](report-template/RULES.md).
 

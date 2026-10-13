@@ -19,4 +19,7 @@
   code-size: 10pt,
   table-size: 12pt,
   caption-size: 12pt,
+  figure-caption-gap: 6pt,
+  figure-before: 12pt,
+  figure-after: 12pt,
 )
