@@ -1,0 +1,241 @@
+{
+  "lab": 8,
+  "student_number": 1,
+  "seed": 8008,
+  "source": "random",
+  "count": 4,
+  "bounds": [
+    0,
+    5
+  ],
+  "direction": "max",
+  "alternatives": [
+    {
+      "id": 1,
+      "criteria": [
+        4,
+        1,
+        4,
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "criteria": [
+        1,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "criteria": [
+        4,
+        4,
+        2,
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "criteria": [
+        5,
+        2,
+        5,
+        5
+      ]
+    }
+  ],
+  "lexicographic": [
+    {
+      "order": [
+        2,
+        1,
+        3,
+        4
+      ],
+      "steps": [
+        {
+          "criterion": 2,
+          "before_ids": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "optimum": 4,
+          "retained_ids": [
+            3
+          ]
+        },
+        {
+          "criterion": 1,
+          "before_ids": [
+            3
+          ],
+          "optimum": 4,
+          "retained_ids": [
+            3
+          ]
+        },
+        {
+          "criterion": 3,
+          "before_ids": [
+            3
+          ],
+          "optimum": 2,
+          "retained_ids": [
+            3
+          ]
+        },
+        {
+          "criterion": 4,
+          "before_ids": [
+            3
+          ],
+          "optimum": 2,
+          "retained_ids": [
+            3
+          ]
+        }
+      ],
+      "winner_ids": [
+        3
+      ]
+    },
+    {
+      "order": [
+        4,
+        1,
+        2,
+        3
+      ],
+      "steps": [
+        {
+          "criterion": 4,
+          "before_ids": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "optimum": 5,
+          "retained_ids": [
+            4
+          ]
+        },
+        {
+          "criterion": 1,
+          "before_ids": [
+            4
+          ],
+          "optimum": 5,
+          "retained_ids": [
+            4
+          ]
+        },
+        {
+          "criterion": 2,
+          "before_ids": [
+            4
+          ],
+          "optimum": 2,
+          "retained_ids": [
+            4
+          ]
+        },
+        {
+          "criterion": 3,
+          "before_ids": [
+            4
+          ],
+          "optimum": 5,
+          "retained_ids": [
+            4
+          ]
+        }
+      ],
+      "winner_ids": [
+        4
+      ]
+    }
+  ],
+  "concessions": {
+    "order": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "deltas": [
+      1,
+      2,
+      3
+    ],
+    "steps": [
+      {
+        "criterion": 1,
+        "before_ids": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "optimum": 5,
+        "delta": 1,
+        "threshold": 4,
+        "retained_ids": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "criterion": 2,
+        "before_ids": [
+          1,
+          3,
+          4
+        ],
+        "optimum": 4,
+        "delta": 2,
+        "threshold": 2,
+        "retained_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "criterion": 3,
+        "before_ids": [
+          3,
+          4
+        ],
+        "optimum": 5,
+        "delta": 3,
+        "threshold": 2,
+        "retained_ids": [
+          3,
+          4
+        ]
+      },
+      {
+        "criterion": 4,
+        "before_ids": [
+          3,
+          4
+        ],
+        "optimum": 5,
+        "delta": 0,
+        "threshold": 5,
+        "retained_ids": [
+          4
+        ]
+      }
+    ],
+    "winner_ids": [
+      4
+    ]
+  }
+}

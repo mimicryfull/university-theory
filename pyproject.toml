@@ -1,0 +1,9 @@
+[project]
+name = "university-theory"
+version = "0.1.0"
+description = "Лабораторні 4–10 з теорії прийняття рішень, ЛНУ, ФЕІ-34с"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
