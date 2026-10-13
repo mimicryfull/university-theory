@@ -1,0 +1,10 @@
+{
+  "student_number": 1,
+  "bernoulli": {"p": 0.5},
+  "binomial": {"p": 0.5, "n": 3},
+  "poisson": {"rate": 11, "kmax": 6},
+  "uniform": {"a": -1, "b": 1},
+  "normal": {"mean": 1, "variance": 0.5},
+  "pareto": {"shape": 1, "minimum": 1},
+  "student": {"df": 1}
+}

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="745" viewBox="0 0 1100 745"><rect width="100%" height="100%" fill="white"/><g font-family="Literata, DejaVu Sans, serif">
+<text x="550.00" y="35.00" text-anchor="middle" font-size="28" fill="#172033">Розподіл Пуассона</text>
+<text x="550.00" y="68.00" text-anchor="middle" font-size="22" fill="#172033">rate=11; kmax=6</text>
+<text x="95.00" y="95.00" text-anchor="start" font-size="22" fill="#172033">Імовірність P(X=k)</text>
+<line x1="95.00" y1="325.00" x2="1035.00" y2="325.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="332.00" text-anchor="end" font-size="20" fill="#172033">0</text>
+<line x1="95.00" y1="272.50" x2="1035.00" y2="272.50" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="279.50" text-anchor="end" font-size="20" fill="#172033">0.0117</text>
+<line x1="95.00" y1="220.00" x2="1035.00" y2="220.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="227.00" text-anchor="end" font-size="20" fill="#172033">0.0234</text>
+<line x1="95.00" y1="167.50" x2="1035.00" y2="167.50" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="174.50" text-anchor="end" font-size="20" fill="#172033">0.0351</text>
+<line x1="95.00" y1="115.00" x2="1035.00" y2="115.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="122.00" text-anchor="end" font-size="20" fill="#172033">0.0468</text>
+<line x1="95.00" y1="115.00" x2="95.00" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="95.00" y="355.00" text-anchor="middle" font-size="20" fill="#172033">-0.5</text>
+<line x1="251.67" y1="115.00" x2="251.67" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="251.67" y="355.00" text-anchor="middle" font-size="20" fill="#172033">0.667</text>
+<line x1="408.33" y1="115.00" x2="408.33" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="408.33" y="355.00" text-anchor="middle" font-size="20" fill="#172033">1.83</text>
+<line x1="565.00" y1="115.00" x2="565.00" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="565.00" y="355.00" text-anchor="middle" font-size="20" fill="#172033">3</text>
+<line x1="721.67" y1="115.00" x2="721.67" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="721.67" y="355.00" text-anchor="middle" font-size="20" fill="#172033">4.17</text>
+<line x1="878.33" y1="115.00" x2="878.33" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="878.33" y="355.00" text-anchor="middle" font-size="20" fill="#172033">5.33</text>
+<line x1="1035.00" y1="115.00" x2="1035.00" y2="325.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="1035.00" y="355.00" text-anchor="middle" font-size="20" fill="#172033">6.5</text>
+<text x="1035.00" y="382.00" text-anchor="end" font-size="21" fill="#172033">x</text>
+<rect x="122.14" y="324.93" width="80.00" height="0.07" fill="#2563eb"/>
+<text x="162.14" y="315.93" text-anchor="middle" font-size="19" fill="#172033">0.0000</text>
+<rect x="256.43" y="324.18" width="80.00" height="0.82" fill="#2563eb"/>
+<text x="296.43" y="315.18" text-anchor="middle" font-size="19" fill="#172033">0.0002</text>
+<rect x="390.71" y="320.47" width="80.00" height="4.53" fill="#2563eb"/>
+<text x="430.71" y="311.47" text-anchor="middle" font-size="19" fill="#172033">0.0010</text>
+<rect x="525.00" y="308.39" width="80.00" height="16.61" fill="#2563eb"/>
+<text x="565.00" y="299.39" text-anchor="middle" font-size="19" fill="#172033">0.0037</text>
+<rect x="659.29" y="279.33" width="80.00" height="45.67" fill="#2563eb"/>
+<text x="699.29" y="270.33" text-anchor="middle" font-size="19" fill="#172033">0.0102</text>
+<rect x="793.57" y="224.52" width="80.00" height="100.48" fill="#2563eb"/>
+<text x="833.57" y="215.52" text-anchor="middle" font-size="19" fill="#172033">0.0224</text>
+<rect x="927.86" y="140.79" width="80.00" height="184.21" fill="#2563eb"/>
+<text x="967.86" y="131.79" text-anchor="middle" font-size="19" fill="#172033">0.0411</text>
+<text x="95.00" y="445.00" text-anchor="start" font-size="22" fill="#172033">Функція розподілу F(x)=P(X≤x)</text>
+<line x1="95.00" y1="675.00" x2="1035.00" y2="675.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="682.00" text-anchor="end" font-size="20" fill="#172033">0</text>
+<line x1="95.00" y1="622.50" x2="1035.00" y2="622.50" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="629.50" text-anchor="end" font-size="20" fill="#172033">0.25</text>
+<line x1="95.00" y1="570.00" x2="1035.00" y2="570.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="577.00" text-anchor="end" font-size="20" fill="#172033">0.5</text>
+<line x1="95.00" y1="517.50" x2="1035.00" y2="517.50" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="524.50" text-anchor="end" font-size="20" fill="#172033">0.75</text>
+<line x1="95.00" y1="465.00" x2="1035.00" y2="465.00" stroke="#cbd5e1" stroke-width="1"/>
+<text x="82.00" y="472.00" text-anchor="end" font-size="20" fill="#172033">1</text>
+<line x1="95.00" y1="465.00" x2="95.00" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="95.00" y="705.00" text-anchor="middle" font-size="20" fill="#172033">-0.5</text>
+<line x1="251.67" y1="465.00" x2="251.67" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="251.67" y="705.00" text-anchor="middle" font-size="20" fill="#172033">0.667</text>
+<line x1="408.33" y1="465.00" x2="408.33" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="408.33" y="705.00" text-anchor="middle" font-size="20" fill="#172033">1.83</text>
+<line x1="565.00" y1="465.00" x2="565.00" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="565.00" y="705.00" text-anchor="middle" font-size="20" fill="#172033">3</text>
+<line x1="721.67" y1="465.00" x2="721.67" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="721.67" y="705.00" text-anchor="middle" font-size="20" fill="#172033">4.17</text>
+<line x1="878.33" y1="465.00" x2="878.33" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="878.33" y="705.00" text-anchor="middle" font-size="20" fill="#172033">5.33</text>
+<line x1="1035.00" y1="465.00" x2="1035.00" y2="675.00" stroke="#eef2f6" stroke-width="1"/>
+<text x="1035.00" y="705.00" text-anchor="middle" font-size="20" fill="#172033">6.5</text>
+<text x="1035.00" y="732.00" text-anchor="end" font-size="21" fill="#172033">x</text>
+<line x1="95.00" y1="675.00" x2="162.14" y2="675.00" stroke="#d97706" stroke-width="3"/>
+<circle cx="162.14" cy="675.00" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="162.14" cy="675.00" r="4" fill="#d97706"/>
+<line x1="162.14" y1="675.00" x2="296.43" y2="675.00" stroke="#d97706" stroke-width="3"/>
+<circle cx="296.43" cy="675.00" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="296.43" cy="674.96" r="4" fill="#d97706"/>
+<line x1="296.43" y1="674.96" x2="430.71" y2="674.96" stroke="#d97706" stroke-width="3"/>
+<circle cx="430.71" cy="674.96" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="430.71" cy="674.75" r="4" fill="#d97706"/>
+<line x1="430.71" y1="674.75" x2="565.00" y2="674.75" stroke="#d97706" stroke-width="3"/>
+<circle cx="565.00" cy="674.75" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="565.00" cy="673.97" r="4" fill="#d97706"/>
+<line x1="565.00" y1="673.97" x2="699.29" y2="673.97" stroke="#d97706" stroke-width="3"/>
+<circle cx="699.29" cy="673.97" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="699.29" cy="671.83" r="4" fill="#d97706"/>
+<line x1="699.29" y1="671.83" x2="833.57" y2="671.83" stroke="#d97706" stroke-width="3"/>
+<circle cx="833.57" cy="671.83" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="833.57" cy="667.12" r="4" fill="#d97706"/>
+<line x1="833.57" y1="667.12" x2="967.86" y2="667.12" stroke="#d97706" stroke-width="3"/>
+<circle cx="967.86" cy="667.12" r="4" fill="white" stroke="#d97706" stroke-width="2"/>
+<circle cx="967.86" cy="658.49" r="4" fill="#d97706"/>
+<line x1="967.86" y1="658.49" x2="1035.00" y2="658.49" stroke="#d97706" stroke-width="3"/></g></svg>

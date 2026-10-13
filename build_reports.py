@@ -16,7 +16,7 @@ def main() -> None:
     args = parser.parse_args()
     if not args.typst:
         parser.error("Встановіть Typst або задайте шлях через --typst.")
-    for number in range(4, 11):
+    for number in range(1, 11):
         folder = ROOT / "labs" / f"lab-{number:02d}" / "report"
         subprocess.run([
             args.typst, "compile", "--root", str(ROOT),

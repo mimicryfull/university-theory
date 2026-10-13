@@ -1,0 +1,467 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="1293" viewBox="0 0 990 1293">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Liberation Sans, sans-serif" fill="#17212b">
+<text x="25" y="32" font-size="24" fill="#17212b" text-anchor="start" font-weight="bold">Результати операцій над P та Q</text>
+<text x="35" y="58" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P ∩ Q</text>
+<text x="99.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="53" y="146.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="147.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="53" y="194.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="195.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="53" y="242.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="243.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="53" y="290.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="75" y="115" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="147.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="99.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="123" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="211" width="45" height="45" fill="#eef2f7"/>
+<text x="99.0" y="243.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="123" y="211" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="243.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="195.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="219" y="211" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="243.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="99.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="123" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="75" y="336" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 6</text>
+<text x="365" y="58" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P ∪ Q</text>
+<text x="429.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="383" y="146.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="477.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="383" y="194.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="525.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="383" y="242.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="573.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="383" y="290.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="405" y="115" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="147.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="405" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="525.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="549" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="405" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="405" y="336" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 11</text>
+<text x="695" y="58" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P \ Q</text>
+<text x="759.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="713" y="146.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="807.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="713" y="194.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="855.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="713" y="242.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="903.0" y="100" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="713" y="290.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="735" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="759.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="783" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="855.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="879" y="115" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="147.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="735" y="163" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="195.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="855.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="879" y="163" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="195.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="735" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="211" width="45" height="45" fill="#eef2f7"/>
+<text x="855.0" y="243.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="879" y="211" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="243.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="735" y="259" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="291.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="855.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="879" y="259" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="291.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="735" y="336" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 5</text>
+<text x="35" y="360" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P Δ Q</text>
+<text x="99.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="53" y="448.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="147.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="53" y="496.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="195.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="53" y="544.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="243.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="53" y="592.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="75" y="417" width="45" height="45" fill="#eef2f7"/>
+<text x="99.0" y="449.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="123" y="417" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="449.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="417" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="449.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="417" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="449.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="465" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="497.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="513" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="545.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="513" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="545.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="513" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="545.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="561" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="593.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="75" y="638" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 5</text>
+<text x="365" y="360" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">Доповнення P</text>
+<text x="429.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="383" y="448.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="477.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="383" y="496.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="525.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="383" y="544.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="573.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="383" y="592.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="405" y="417" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="449.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="525.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="549" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="405" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="465" width="45" height="45" fill="#2764bd"/>
+<text x="525.0" y="497.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="549" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="561" width="45" height="45" fill="#2764bd"/>
+<text x="525.0" y="593.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="549" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="405" y="638" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 5</text>
+<text x="695" y="360" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P⁻¹</text>
+<text x="759.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="713" y="448.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="807.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="713" y="496.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="855.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="713" y="544.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="903.0" y="402" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="713" y="592.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="735" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="417" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="449.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="735" y="465" width="45" height="45" fill="#eef2f7"/>
+<text x="759.0" y="497.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="783" y="465" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="497.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="465" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="497.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="465" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="497.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="735" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="759.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="783" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="513" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="545.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="513" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="545.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="735" y="561" width="45" height="45" fill="#eef2f7"/>
+<text x="759.0" y="593.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="783" y="561" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="593.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="561" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="593.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="561" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="593.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="735" y="638" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 11</text>
+<text x="35" y="662" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P ○ Q</text>
+<text x="99.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="53" y="750.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="147.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="53" y="798.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="195.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="53" y="846.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="243.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="53" y="894.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="75" y="719" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="751.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="767" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="799.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="767" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="799.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="767" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="799.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="195.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="219" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="863" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="895.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="863" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="895.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="863" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="895.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="75" y="940" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 11</text>
+<text x="365" y="662" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">Q \ P</text>
+<text x="429.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="383" y="750.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="477.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="383" y="798.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="525.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="383" y="846.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="573.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="383" y="894.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="405" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="815" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="847.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="815" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="847.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="815" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="847.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="815" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="847.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="429.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="453" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="405" y="940" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 0</text>
+<text x="695" y="662" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">Доповнення Q</text>
+<text x="759.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="713" y="750.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="807.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="713" y="798.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="855.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="713" y="846.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="903.0" y="704" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="713" y="894.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="735" y="719" width="45" height="45" fill="#eef2f7"/>
+<text x="759.0" y="751.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="783" y="719" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="751.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="719" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="751.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="719" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="751.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="735" y="767" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="799.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="767" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="799.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="767" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="799.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="735" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="807.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="831" y="815" width="45" height="45" fill="#eef2f7"/>
+<text x="855.0" y="847.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="879" y="815" width="45" height="45" fill="#2764bd"/>
+<text x="903.0" y="847.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="735" y="863" width="45" height="45" fill="#2764bd"/>
+<text x="759.0" y="895.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="783" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="807.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="831" y="863" width="45" height="45" fill="#2764bd"/>
+<text x="855.0" y="895.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="879" y="863" width="45" height="45" fill="#eef2f7"/>
+<text x="903.0" y="895.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<text x="735" y="940" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 10</text>
+<text x="35" y="964" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">Q ○ P</text>
+<text x="99.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="53" y="1052.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="147.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="53" y="1100.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="195.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="53" y="1148.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="243.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="53" y="1196.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="75" y="1021" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="1053.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="147.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="171" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="243.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="75" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="1069" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="1101.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="195.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="219" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="75" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="99.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="123" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="147.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="171" y="1165" width="45" height="45" fill="#eef2f7"/>
+<text x="195.0" y="1197.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="219" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="243.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="75" y="1242" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 11</text>
+<text x="365" y="964" font-size="23" fill="#17212b" text-anchor="start" font-weight="bold">P²</text>
+<text x="429.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">З</text>
+<text x="383" y="1052.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">З</text>
+<text x="477.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">В</text>
+<text x="383" y="1100.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">В</text>
+<text x="525.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">Л</text>
+<text x="383" y="1148.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">Л</text>
+<text x="573.0" y="1006" font-size="21" fill="#17212b" text-anchor="middle" font-weight="bold">О</text>
+<text x="383" y="1196.0" font-size="21" fill="#17212b" text-anchor="end" font-weight="bold">О</text>
+<rect x="405" y="1021" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="1053.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="477.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="501" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="1021" width="45" height="45" fill="#eef2f7"/>
+<text x="573.0" y="1053.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="405" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="1069" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="1101.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="1069" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="1101.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="405" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="525.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="549" y="1117" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="1149.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="405" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="429.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="453" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="477.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<rect x="501" y="1165" width="45" height="45" fill="#eef2f7"/>
+<text x="525.0" y="1197.0" font-size="24" fill="#64748b" text-anchor="middle" font-weight="normal">0</text>
+<rect x="549" y="1165" width="45" height="45" fill="#2764bd"/>
+<text x="573.0" y="1197.0" font-size="24" fill="white" text-anchor="middle" font-weight="normal">1</text>
+<text x="405" y="1242" font-size="17" fill="#17212b" text-anchor="start" font-weight="normal">Кількість пар: 11</text>
+</g></svg>

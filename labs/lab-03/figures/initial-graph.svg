@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="650" viewBox="0 0 780 650">
+<rect width="100%" height="100%" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#2764bd"/></marker></defs>
+<g font-family="Literata,serif" fill="#17212b">
+<text x="390" y="35" font-size="23" text-anchor="middle" fill="#17212b">Граф початкового бінарного відношення</text>
+<text x="390" y="65" font-size="17" text-anchor="middle" fill="#17212b">Стрілка xi → xj відповідає одиниці pᵢⱼ</text>
+<path d="M370.0 164.0 C295.0 75.0, 485.0 75.0, 410.0 164.0" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M368.079689783217 206.92031021678298 L229.0416305603426 345.95836943965736" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M553.0796897832171 391.920310216783 Q464.4687770797431 442.34745673618346 414.04163056034264 530.9583694396574" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M390.0 524.0 L390.0 219.0" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M411.920310216783 533.0796897832171 Q500.531222920257 482.65254326381665 550.9583694396574 394.04163056034264" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M226.92031021678298 391.920310216783 L365.95836943965736 530.9583694396574" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M185.0 349.0 C110.0 260.0, 300.0 260.0, 225.0 349.0" fill="none" stroke="#2764bd" stroke-width="2.5" marker-end="url(#arrow)"/>
+<circle cx="390.0" cy="185.0" r="29" fill="#eef4fc" stroke="#2764bd" stroke-width="2"/>
+<text x="390.0" y="192.0" font-size="21" text-anchor="middle" fill="#17212b">x1</text>
+<circle cx="575.0" cy="370.0" r="29" fill="#eef4fc" stroke="#2764bd" stroke-width="2"/>
+<text x="575.0" y="377.0" font-size="21" text-anchor="middle" fill="#17212b">x2</text>
+<circle cx="390.0" cy="555.0" r="29" fill="#eef4fc" stroke="#2764bd" stroke-width="2"/>
+<text x="390.0" y="562.0" font-size="21" text-anchor="middle" fill="#17212b">x3</text>
+<circle cx="205.0" cy="370.0" r="29" fill="#eef4fc" stroke="#2764bd" stroke-width="2"/>
+<text x="205.0" y="377.0" font-size="21" text-anchor="middle" fill="#17212b">x4</text>
+<text x="390" y="620" font-size="17" text-anchor="middle" fill="#17212b">Петлі відповідають одиницям на діагоналі; сині дуги — відношенню P.</text>
+</g></svg>

@@ -1,4 +1,4 @@
-"""Виконати лабораторні 4–10 та зберегти результати (без тестів)."""
+"""Виконати лабораторні 1–10 та зберегти результати (без тестів)."""
 
 from pathlib import Path
 import subprocess
@@ -7,6 +7,9 @@ import sys
 
 ROOT = Path(__file__).resolve().parent
 JOBS = [
+    (1, ["--student-number", "1"]),
+    (2, ["--variant", "1"]),
+    (3, ["--student-number", "1"]),
     (4, ["--student-number", "1", "--seed", "20260401"]),
     (5, []),
     (6, ["--student-number", "1", "--seed", "20260506"]),

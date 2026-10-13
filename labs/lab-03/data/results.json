@@ -1,0 +1,372 @@
+{
+  "student_number": 1,
+  "shift_count": 0,
+  "shift_mode": "flat",
+  "base_matrix": [
+    [
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "matrix": [
+    [
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ],
+  "powers": [
+    {
+      "exponent": 1,
+      "matrix": [
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "exponent": 2,
+      "matrix": [
+        [
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "exponent": 3,
+      "matrix": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "exponent": 4,
+      "matrix": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "exponent": 5,
+      "matrix": [
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ]
+      ]
+    }
+  ],
+  "first_repeated_exponent": 5,
+  "first_occurrence_exponent": 4,
+  "period": 1,
+  "transitive_closure": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "reachability": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "mutual_reachability": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "classes": [
+    [
+      1,
+      2,
+      3,
+      4
+    ]
+  ],
+  "quotient": [
+    [
+      1
+    ]
+  ],
+  "condensation": [
+    [
+      0
+    ]
+  ],
+  "factor_witnesses": [
+    {
+      "source_class": 1,
+      "target_class": 1,
+      "original_edges": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    }
+  ],
+  "properties": {
+    "initial": {
+      "reflexive": false,
+      "symmetric": false,
+      "antisymmetric": false,
+      "transitive": false
+    },
+    "transitive_closure": {
+      "reflexive": true,
+      "symmetric": true,
+      "antisymmetric": false,
+      "transitive": true
+    },
+    "reachability": {
+      "reflexive": true,
+      "symmetric": true,
+      "antisymmetric": false,
+      "transitive": true
+    },
+    "mutual_reachability": {
+      "reflexive": true,
+      "symmetric": true,
+      "antisymmetric": false,
+      "transitive": true
+    },
+    "quotient": {
+      "reflexive": true,
+      "symmetric": true,
+      "antisymmetric": true,
+      "transitive": true
+    }
+  },
+  "source": "Приклад матриці B(P) з пункту 2 порядку виконання у materials/Lab3.pdf; окремої матриці від викладача не надано."
+}
